@@ -1,0 +1,92 @@
+.cards {
+    padding: 10px;
+}
+
+.cards-inner {
+    width: 150px;
+    height: 150px;
+}
+.cards-inner:hover {
+    cursor: crosshair;
+}
+
+
+.card-a {
+    background-image: url("../img/a.jpg");
+    background-size: cover;
+}
+
+.card-b {
+    background-image: url("../img/b.jpg");
+    background-size: cover;
+}
+
+.card-c {
+    background-image: url("../img/c.jpg");
+    background-size: cover;
+}
+
+.card-d {
+    background-image: url("../img/d.jpg");
+    background-size: cover;
+}
+
+.card-e {
+    background-image: url("../img/e.jpg");
+    background-size: cover;
+}
+
+.card-f {
+    background-image: url("../img/f.jpg");
+    background-size: cover;
+}
+
+.card-g {
+    background-image: url("../img/g.jpg");
+    background-size: cover;
+}
+
+.card-h {
+    background-image: url("../img/h.jpg");
+    background-size: cover;
+}
+
+.card-i {
+    background-image: url("../img/i.jpg");
+    background-size: cover;
+}
+
+.card-j {
+    background-image: url("../img/j.jpg");
+    background-size: cover;
+}
+
+.card-k {
+    background-image: url("../img/k.jpg");
+    background-size: cover;
+}
+
+.card-l {
+    background-image: url("../img/l.jpg");
+    background-size: cover;
+}
+
+.card-m {
+    background-image: url("../img/m.jpg");
+    background-size: cover;
+}
+
+.card-n {
+    background-image: url("../img/n.jpg");
+    background-size: cover;
+}
+
+.card-hidden {
+    background-image: url(https://www.mixedgrill.nl/wp-content/uploads/2010/12/tron-legacy.jpg);
+    background-size: cover;
+    background-position: center center;
+    transition: 0.3s;
+}
+.card-hidden:hover {
+    opacity: 0.4;
+}

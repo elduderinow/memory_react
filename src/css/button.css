@@ -1,0 +1,13 @@
+button {
+    font-family: "Orbitron", sans-serif;
+    margin: 20px;
+    background-color: #c4faff;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 100px;
+    transition: 0.3s;
+    color: #182c34;
+}
+button:hover {
+    background-color: #79a6aa;
+}

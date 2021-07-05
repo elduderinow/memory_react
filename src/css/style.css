@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+.container-fluid {
+    background-image: url("../img/thegrid_1.jpeg");
+    background-size: cover;
+    color: white;
+    background-position: center center;
+}
+
+body {
+    background-color: #05131d !important;
+}
+
+
+#field {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+.footer {
+    height: 100px;
+}
+
+/*# sourceMappingURL=style.css.map */
